@@ -1,11 +1,11 @@
 # apk-monitor
 
-The purpose of this project are filtering out some major function like sendBroadcast, onReceive, startService, onHandleIntent, startActivity, getIntent; counting them; showing Permission and Components's export status which matched "True"
+The purpose of this project are filtering out some major function like sendBroadcast, onReceive, startService, onHandleIntent, startActivity, getIntent; counting them; showing Permission and Components's export status which matched "True" 
 This project help people locate sensity function easily.
 
-To use this apk monitor:
-Install AndroidGuard -> for analysis
-Install XAMPP -> for mysql DB and inllustrating report in Web UI
+To use this apk monitor: 
+Install AndroidGuard -> for analysis 
+Install XAMPP -> for mysql DB and inllustrating report in Web UI 
 
 Put apk-monitor.py, sql.py, sqlstorehash.py into 1 folder
 Run sql.CreateDB(), sql.Creatable(), sql.DangerousPermission() for the first time run analysis - line 95, 96, 97
