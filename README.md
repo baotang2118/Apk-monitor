@@ -18,3 +18,5 @@ Put all file in "php" into "monitor"
 then start service and enjoy  
 
 App can be searched in report by its name, ID or hashes.
+
+<img src="https://github.com/baotang2118/apk-monitor/blob/master/photo%20of%20result/image58.png">
